@@ -1,0 +1,7 @@
+C:\Users\779\source\repos\kz_11.1\kz_11.1\bin\Debug\kz_11.1.exe.config
+C:\Users\779\source\repos\kz_11.1\kz_11.1\bin\Debug\kz_11.1.exe
+C:\Users\779\source\repos\kz_11.1\kz_11.1\bin\Debug\kz_11.1.pdb
+C:\Users\779\source\repos\kz_11.1\kz_11.1\obj\Debug\kz_11.1.csproj.AssemblyReference.cache
+C:\Users\779\source\repos\kz_11.1\kz_11.1\obj\Debug\kz_11.1.csproj.CoreCompileInputs.cache
+C:\Users\779\source\repos\kz_11.1\kz_11.1\obj\Debug\kz_11.1.exe
+C:\Users\779\source\repos\kz_11.1\kz_11.1\obj\Debug\kz_11.1.pdb
