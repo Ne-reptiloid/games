@@ -1,0 +1,7 @@
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\bin\Debug\kz_2.3.exe.config
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\bin\Debug\kz_2.3.exe
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\bin\Debug\kz_2.3.pdb
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\obj\Debug\kz_2.3.csproj.AssemblyReference.cache
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\obj\Debug\kz_2.3.csproj.CoreCompileInputs.cache
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\obj\Debug\kz_2.3.exe
+C:\Users\779\Documents\GitHub\----\kz_2.3\kz_2.3\obj\Debug\kz_2.3.pdb

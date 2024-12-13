@@ -1,0 +1,7 @@
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\bin\Debug\dz_2.2_factorial.exe.config
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\bin\Debug\dz_2.2_factorial.exe
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\bin\Debug\dz_2.2_factorial.pdb
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\obj\Debug\dz_2.2_factorial.csproj.AssemblyReference.cache
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\obj\Debug\dz_2.2_factorial.csproj.CoreCompileInputs.cache
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\obj\Debug\dz_2.2_factorial.exe
+C:\Users\779\source\repos\dz_2.2_factorial\dz_2.2_factorial\obj\Debug\dz_2.2_factorial.pdb
